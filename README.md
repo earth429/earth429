@@ -1,4 +1,6 @@
-### Hi there 👋
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=earth429&count_private=true&show_icons=true&theme=radical&locate=ja&hide=contribs,prs,stars,issues)](https://github.com/anuraghazra/github-readme-stats)
+<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_ja.md -- >
+
 
 <!--
 **earth429/earth429** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
