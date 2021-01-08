@@ -1,4 +1,12 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=earth429&count_private=true&show_icons=true&theme=radical&locate=ja&hide=contribs,prs,stars,issues)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=earth429&count_private=true&show_icons=true&theme=radical&locate=ja&hide=contribs,prs,stars,issues)](https://github.com/anuraghazra/github-readme-stats)-->
+
+<a href="https://github.com/earth429/github-readme-stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=earth429&count_private=true&show_icons=true&theme=midnight-purple" />
+</a>
+<a href="https://github.com/earth429/github-readme-stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=earth429&theme=midnight-purple" />
+</a>
+
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_ja.md -- >
 
 
